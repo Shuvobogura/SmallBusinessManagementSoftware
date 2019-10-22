@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BusinessManagementSoftware
 {
-    public partial class Form1 : Form
+    public partial class Stock : Form
     {
-        public Form1()
+        public Stock()
         {
             InitializeComponent();
         }
